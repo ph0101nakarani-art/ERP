@@ -1,4 +1,4 @@
 # ERP
 This is ERP System to make for Client
 <br>
-Auther - Red & White SKill Education
+Auther - Red & White SKill (SME)
